@@ -29,10 +29,10 @@ Technical task on Linux Given by XenonStack
 ### Part3 | Advanced Level
 * internsctl file getinfo <file-name>
 * internsctl file getinfo [options] <file-name>
-** --size, -s to print size
-** --permissions, -p print file permissions
-** --owner, o print file owner
-** --last-modified, m
+  * --size, -s to print size
+  * --permissions, -p print file permissions
+  * --owner, o print file owner
+  * --last-modified, m
 
 ![Screenshot (12)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/865287a6-e57b-4c3b-9cd1-7a9288d04efd)
 ![Screenshot (13)](https://github.com/Asmit-Pandey/Linux_Task_XenonStack/assets/97057036/2fee5dde-43b7-45dd-9fdd-d3cea9132491)
